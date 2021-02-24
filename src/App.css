@@ -1,0 +1,26 @@
+/* body {
+  margin: 0;
+  width: 100%;
+}
+.App {
+} */
+
+h1 {
+  font-weight: 200;
+  font-size: 30px;
+  font-family: monospace;
+}
+li {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h5 {
+  font-family: serif;
+  font-size: 16px;
+}
+h6 {
+  font-size: 14px;
+}
+/* .tsparticles-canvas-el {
+  position: absolute !important;
+} */
